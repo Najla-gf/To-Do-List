@@ -51,8 +51,6 @@ python manage.py runserver
 
 ### ⚛️ Frontend (React)
 ```bash
-Copiar
-Editar
 cd frontend
 npm install
 npm start
